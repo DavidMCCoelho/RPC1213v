@@ -3,3 +3,10 @@ git add *
 git config --global user.email "you@example.com"
 git config --global user.name "DMCC"
 git commit -a -m "primeiro commit"
+
+git status
+git branch
+git branch dev
+git checkout dev
+
+
