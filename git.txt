@@ -9,5 +9,28 @@ git branch
 git branch dev
 git checkout dev
 
-git remote add nameTag httlps://github.com/blabla.git
-git push -u nameTag master
+git remote add projectNameTag httlps://github.com/blabla.git
+git push -u projectNameTag master
+
+
+https://github.com/signup/free
+DavidMCCoelho
+David.MCCoelho@gmail.com
+%$h(JTH78i(/YO()"
+
+DavidMCCoelho/RPC1213v
+
+Create a new repository on the command line
+
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/DavidMCCoelho/RPC1213v.git
+git push -u origin master
+
+Push an existing repository from the command line
+
+git remote add origin https://github.com/DavidMCCoelho/RPC1213v.git
+git push -u origin master
+
