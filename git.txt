@@ -9,4 +9,5 @@ git branch
 git branch dev
 git checkout dev
 
-
+git remote add nameTag httlps://github.com/blabla.git
+git push -u nameTag master
